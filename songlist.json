@@ -1,0 +1,6035 @@
+{
+    "songs": [
+        {
+            "id": "star-cape",
+            "title_localized": {
+                "default": "Star Cape",
+                "en": "Star Cape",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "打打だいず",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 8.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 11.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "quon",
+            "title_localized": {
+                "default": "Quon",
+                "en": "Quon",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "DJ Noriken",
+            "source_localized": {
+                "default": "WACCA",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "神谷ズズ",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "神谷ズズ",
+                    "ratingReal": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "神谷ズズ",
+                    "ratingReal": 11.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "神谷ズズ",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "k-moe-vip",
+            "title_localized": {
+                "default": "K.Moe (VIP)",
+                "en": "K.Moe (VIP)",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "ZxNX",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 10.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 11.1
+                }
+            ],
+            "alias": [
+                "kmoe"
+            ]
+        },
+        {
+            "id": "higher",
+            "title_localized": {
+                "default": "HiGHER",
+                "en": "HiGHER",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "REDALiCE",
+            "source_localized": {
+                "default": "HARDCORE SYNDROME X",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend as \"VERTEXTENDER\"",
+                    "jacketDesigner": "KEI",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend as \"VERTEXTENDER\"",
+                    "jacketDesigner": "KEI",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend as \"VERTEXTENDER\"",
+                    "jacketDesigner": "KEI",
+                    "ratingReal": 10.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend as \"VERTEXTENDER\"",
+                    "jacketDesigner": "KEI",
+                    "ratingReal": 11.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "gecko",
+            "title_localized": {
+                "default": "Gecko",
+                "en": "Gecko",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "RedMuffleR",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 8.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "stray-soul-around",
+            "title_localized": {
+                "default": "ストレイソウル・アラウンド",
+                "en": "Stray soul around",
+                "zh-Hans": "ストレイソウル・アラウンド",
+                "zh-Hant": "en",
+                "ja": "en",
+                "ko": "en"
+            },
+            "artist": "みーに",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "アクセラ・アナザー・ラウンド",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "アクセラ・アナザー・ラウンド",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "アクセラ・アナザー・ラウンド",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 9.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "アクセラ・アナザー・ラウンド",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "brain-crusher",
+            "title_localized": {
+                "default": "Brain Crusher",
+                "en": "Brain Crusher",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Yasuha",
+            "source_localized": {
+                "default": "DIVERSITY",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "on-and-on",
+            "title_localized": {
+                "default": "On And On!!",
+                "en": "On And On!!",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "ETIA. feat. Jenga",
+            "source_localized": {
+                "default": "G2R2018"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "HIT ME WITH THE DARKCORE!!",
+                    "jacketDesigner": "わっふゑ",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "HIT ME WITH THE DARKCORE!!",
+                    "jacketDesigner": "わっふゑ",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "HIT ME WITH THE DARKCORE!!",
+                    "jacketDesigner": "わっふゑ",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "HIT ME WITH THE DARKCORE!!",
+                    "jacketDesigner": "わっふゑ",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "inverted-world",
+            "title_localized": {
+                "default": "Inverted World",
+                "en": "Inverted World",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "ARForest",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 8.1
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 13
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "life-is-piano",
+            "title_localized": {
+                "default": "Life is PIANO",
+                "en": "Life is PIANO",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Junk",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "TOHRU MiTSUHASHi",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "TOHRU MiTSUHASHi",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "TOHRU MiTSUHASHi",
+                    "ratingReal": 10.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "TOHRU MiTSUHASHi",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "obsidian",
+            "title_localized": {
+                "default": "Obsidian(Short Ver.)",
+                "en": "Obsidian(Short Ver.)",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "UnD3ath",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "estaminet",
+            "title_localized": {
+                "default": "Estaminet",
+                "en": "Estaminet",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "rmk",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "another-me",
+            "title_localized": {
+                "default": "Another Me (Rotaeno Edit)",
+                "en": "Another Me (Rotaeno Edit)",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Neutral Moon",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Ｒyｏ rｉ ☩",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Ｒyｏ rｉ ☩",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Ｒyｏ rｉ ☩",
+                    "ratingReal": 9.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Ｒyｏ rｉ ☩",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "commotion",
+            "title_localized": {
+                "default": "Commotion",
+                "en": "Commotion",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "SLT",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 10.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "bouquet-colore",
+            "title_localized": {
+                "default": "Bouquet colore",
+                "en": "Bouquet colore",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nego_tiator",
+            "source_localized": {
+                "default": "BOFXV19",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 10.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "calorific-refract",
+            "title_localized": {
+                "default": "Calorific Refract",
+                "en": "Calorific Refract",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Tatsh",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "符君",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "符君",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "符君",
+                    "ratingReal": 10.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "符君",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "brave-my-soul",
+            "title_localized": {
+                "default": "Brave My Soul",
+                "en": "Brave My Soul",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "uma feat. ましろ",
+            "source_localized": {
+                "default": "BOFU2017",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "りーふぱい, わっふゑ",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "りーふぱい, わっふゑ",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "りーふぱい, わっふゑ",
+                    "ratingReal": 8.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "りーふぱい, わっふゑ",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "lagtrain",
+            "title_localized": {
+                "default": "ラグトレイン",
+                "en": "Lagtrain",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "ラグトレイン",
+                "ko": "en"
+            },
+            "artist": "稲葉曇",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend on the train",
+                    "jacketDesigner": "ぬくぬくにぎりめし",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend on the train",
+                    "jacketDesigner": "ぬくぬくにぎりめし",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend on the train",
+                    "jacketDesigner": "ぬくぬくにぎりめし",
+                    "ratingReal": 8.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend on the train",
+                    "jacketDesigner": "ぬくぬくにぎりめし",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "memory-of-sunrise",
+            "title_localized": {
+                "default": "Memory Of Sunrise",
+                "en": "Memory Of Sunrise",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "nora2r",
+            "source_localized": {
+                "default": "BOFU2016",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 10.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "shooting-stars",
+            "title_localized": {
+                "default": "Shooting☆Stars",
+                "en": "Shooting☆Stars",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "DJ Genki",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈Meteor襲來≡☆",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈Meteor襲來≡≡☆",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈Meteor襲來≡≡≡☆",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 10.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈Meteor襲來≡≡≡☆(ゝ∀･)☆",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "cosmic-starter",
+            "title_localized": {
+                "default": "Cosmic Starter",
+                "en": "Cosmic Starter",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "TAG feat. HyuN",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 8.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "welcome-ssspooky",
+            "title_localized": {
+                "default": "Welcome, SSSpooky!!!",
+                "en": "Welcome, SSSpooky!!!",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Tanchiky & 打打だいず",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "りゅうら",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "りゅうら",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "りゅうら",
+                    "ratingReal": 11.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "りゅうら",
+                    "ratingReal": 12.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "gokusaishoku-no-yutopia",
+            "title_localized": {
+                "default": "極彩色のユートピア",
+                "en": "Gokusaishoku no Utopia",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "極彩色のユートピア",
+                "ko": "en"
+            },
+            "artist": "HyuN feat. kradness",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "nini",
+            "title_localized": {
+                "default": "ニニ -邇々-",
+                "en": "nini-邇々-",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "ニニ -邇々-",
+                "ko": "en"
+            },
+            "artist": "テヅカ x Qayo",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号PxSoul",
+                    "jacketDesigner": "ムッシュ竹崎 x PHage",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号PxSoul",
+                    "jacketDesigner": "ムッシュ竹崎 x PHage",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号PxSoul",
+                    "jacketDesigner": "ムッシュ竹崎 x PHage",
+                    "ratingReal": 9.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号PxSoul",
+                    "jacketDesigner": "ムッシュ竹崎 x PHage",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "re-waked-from-abyss",
+            "title_localized": {
+                "default": "Re-waked from Abyss",
+                "en": "Re-waked from Abyss",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HeavenEGHD",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 10.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "meltdown",
+            "title_localized": {
+                "default": "Meltdown",
+                "en": "Meltdown",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "432pro & l'avenir proche",
+            "source_localized": {
+                "default": "MUMEI Academy 2021",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈 -ConTaMiNaTeD-",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈 -ConTaMiNaTeD-",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈 -ConTaMiNaTeD-",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 10.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈 -ConTaMiNaTeD-",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "aqua-stars",
+            "title_localized": {
+                "default": "Aqua Stars",
+                "en": "Aqua Stars",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Sound Souler",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 10.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "battle-no1",
+            "title_localized": {
+                "default": "BATTLE NO.1",
+                "en": "BATTLE NO.1",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "TANO*C Sound Team",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "HARDCORE TANO*C",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "HARDCORE TANO*C",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "HARDCORE TANO*C",
+                    "ratingReal": 9.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "ROTAENO NO.1",
+                    "jacketDesigner": "HARDCORE TANO*C",
+                    "ratingReal": 12.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "alive",
+            "title_localized": {
+                "default": "Alive",
+                "en": "Alive",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "eicateve",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AngrierB x TPRT Wen x AxEradaS",
+                    "jacketDesigner": "雨野",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AngrierB x TPRT Wen x AxEradaS",
+                    "jacketDesigner": "雨野",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AngrierB x TPRT Wen x AxEradaS",
+                    "jacketDesigner": "雨野",
+                    "ratingReal": 9.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrierB x TPRT Wen x AxEradaS",
+                    "jacketDesigner": "雨野",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "in",
+            "title_localized": {
+                "default": "IN",
+                "en": "IN",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Zris feat. Katie",
+            "source_localized": {
+                "default": "BOFXV19",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 9.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 11.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "lost-puppet",
+            "title_localized": {
+                "default": "LostPuppet",
+                "en": "LostPuppet",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "rmk",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "佐倉のび太",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "佐倉のび太",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "佐倉のび太",
+                    "ratingReal": 8.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "佐倉のび太",
+                    "ratingReal": 10.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "amethyst",
+            "title_localized": {
+                "default": "amethyst",
+                "en": "amethyst",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "かねこちはる",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 10.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "dear-my-memories",
+            "title_localized": {
+                "default": "Dear my memories. ",
+                "en": "Dear my memories. ",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "kuro",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "しりあ",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "しりあ",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "しりあ",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "しりあ",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "after-rain",
+            "title_localized": {
+                "default": "After Rain",
+                "en": "After Rain",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN & MIIM",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 8.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 10.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "shuen-kara-inochi-o-sukuu",
+            "title_localized": {
+                "default": "終焉から命を救う",
+                "en": "Shuen kara inochi o sukuu",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "終焉から命を救う",
+                "ko": "en"
+            },
+            "artist": "MIssionary",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 10.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "you-n-die",
+            "title_localized": {
+                "default": "You & DIE",
+                "en": "You & DIE",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "USAO",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "再瞬 & AXERA",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "再瞬 & AXERA",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "再瞬 & AXERA",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 10.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "memories-of-the-past",
+            "title_localized": {
+                "default": "Memories of the Past feat.メトロミュー",
+                "en": "Memories of the Past feat.メトロミュー",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Mameyudoufu",
+            "source_localized": {
+                "default": "Harmony.",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": " メノウ",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": " メノウ",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": " メノウ",
+                    "ratingReal": 10.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": " メノウ",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "ice-festival",
+            "title_localized": {
+                "default": "Ice Festival",
+                "en": "Ice Festival",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nota",
+            "source_localized": {
+                "default": "BOFU2017",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "雪椿",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "雪椿",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "雪椿",
+                    "ratingReal": 8.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "雪椿",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "witches-party",
+            "title_localized": {
+                "default": "Witches' Party",
+                "en": "Witches' Party",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Kirara Magic feat. Shiroroll",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 9.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Kei",
+                    "ratingReal": 11.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "phantom",
+            "title_localized": {
+                "default": "幻影",
+                "en": "幻影",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Pica",
+            "source_localized": {
+                "default": "BOFXVII",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 9.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 11.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "is-this-real",
+            "title_localized": {
+                "default": "Is This REAL?",
+                "en": "Is This REAL?",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "SOTUI & NIKITA",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "H2omelon",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "H2omelon",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "H2omelon",
+                    "ratingReal": 9.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "H2omelon",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "silentphobia",
+            "title_localized": {
+                "default": "Silentphobia",
+                "en": "Silentphobia",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "t+pazolite VS 削除",
+            "source_localized": {
+                "default": "WACCA Lily R",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "igouP VS 植物",
+                    "jacketDesigner": "Hanamori Hiro",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "igouP VS 植物",
+                    "jacketDesigner": "Hanamori Hiro",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "igouP VS 植物",
+                    "jacketDesigner": "Hanamori Hiro",
+                    "ratingReal": 11.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "igouP VS 植物",
+                    "jacketDesigner": "Hanamori Hiro",
+                    "ratingReal": 12.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "converge",
+            "title_localized": {
+                "default": "Converge ",
+                "en": "Converge ",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "SOTUI x Hundotte",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 9.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 11.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "cross-soul",
+            "title_localized": {
+                "default": "Cross†Soul",
+                "en": "Cross†Soul",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN feat. Syepias",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 9.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "galactic-warzone",
+            "title_localized": {
+                "default": "GALACTIC WARZONE",
+                "en": "GALACTIC WARZONE",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Akira Complex",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 8.9
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Roteamo",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 13.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "lunatixxx-gear",
+            "title_localized": {
+                "default": "Lunàtixxx Gear",
+                "en": "Lunàtixxx Gear",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Laur vs HyuN",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "みしゃも",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "みしゃも",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "みしゃも",
+                    "ratingReal": 11.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "日光植物",
+                    "jacketDesigner": "みしゃも",
+                    "ratingReal": 13.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "excez",
+            "title_localized": {
+                "default": "εxceζ",
+                "en": "εxceζ",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Aoi",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Soda",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Soda",
+                    "ratingReal": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Soda",
+                    "ratingReal": 11.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Soda",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "manifold-hypothesis",
+            "title_localized": {
+                "default": "Manifold Hypothesis",
+                "en": "Manifold Hypothesis",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "cybermiso feat. tigerlily",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "阿清",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "阿清",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "阿清",
+                    "ratingReal": 10.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "阿清",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "musaishiki-no-yutopia",
+            "title_localized": {
+                "default": "無彩色のディストピア",
+                "en": "Musaishiki No Dystopia",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "無彩色のディストピア",
+                "ko": "en"
+            },
+            "artist": "HyuN feat. ウォルピスカーター",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 9.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "velocity",
+            "title_localized": {
+                "default": "Velocity",
+                "en": "Velocity",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Soba",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 8.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "disorder",
+            "title_localized": {
+                "default": "Disorder",
+                "en": "Disorder",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 11.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P x TangScend x TPRT Wen",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "last-paradise",
+            "title_localized": {
+                "default": "Last Paradise",
+                "en": "Last Paradise",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN feat. Serentium",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 9.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 10.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "a-philosophical-wanderer",
+            "title_localized": {
+                "default": "A Philosophical Wanderer",
+                "en": "A Philosophical Wanderer",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "テヅカ x Yunosuke",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 10.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "bystander-knife",
+            "title_localized": {
+                "default": "Bystander Knife",
+                "en": "Bystander Knife",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Ref.Isep",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 9.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 11.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "csqn",
+            "title_localized": {
+                "default": "c.s.q.n.",
+                "en": "c.s.q.n.",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Aoi",
+            "source_localized": {
+                "default": "BOFXV19",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "a.x.e.r.a.",
+                    "jacketDesigner": "Graphite",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "a.x.e.r.a.",
+                    "jacketDesigner": "Graphite",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "a.x.e.r.a.",
+                    "jacketDesigner": "Graphite",
+                    "ratingReal": 10.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "a.x.e.r.a.",
+                    "jacketDesigner": "Graphite",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "my-story",
+            "title_localized": {
+                "default": "My Story! feat.柚子花",
+                "en": "My Story! feat.柚子花",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "KOTONOHOUSE ",
+            "source_localized": {
+                "default": "Decoration.",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 10.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "edge-of-bravery",
+            "title_localized": {
+                "default": "Edge of bravery",
+                "en": "Edge of bravery",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "みーに",
+            "source_localized": {
+                "default": "BOFXV19",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "再瞬：Frontline of Courage",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "再瞬：Frontline of Courage",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "再瞬：Frontline of Courage",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 11.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "再瞬：Frontline of Courage",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "king",
+            "title_localized": {
+                "default": "KING",
+                "en": "KING",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Kanaria",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AXERADAS",
+                    "jacketDesigner": "のう",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AXERADAS",
+                    "jacketDesigner": "のう",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AXERADAS",
+                    "jacketDesigner": "のう",
+                    "ratingReal": 9.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AXERADAS",
+                    "jacketDesigner": "のう",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "a-time-for-everything",
+            "title_localized": {
+                "default": "A Time for Everything",
+                "en": "A Time for Everything",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Iris",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "YungJai",
+                    "ratingReal": 10.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "huggy-wuggy",
+            "title_localized": {
+                "default": "huggy wuggy",
+                "en": "huggy wuggy",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "ZxNX",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Chris醬!",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Chris醬!",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Chris醬!",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 10.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Chris醬!",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "sweet-dreams",
+            "title_localized": {
+                "default": "Sweet Dreams (short ver.)",
+                "en": "Sweet Dreams (short ver.)",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Neko Hacker",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "HOJI",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "HOJI",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "HOJI",
+                    "ratingReal": 8.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "HOJI",
+                    "ratingReal": 11.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "life-flashes-before-weeb-eyes",
+            "title_localized": {
+                "default": "life flashes before weeb eyes",
+                "en": "life flashes before weeb eyes",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "BilliumMoto",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "MAOSU",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "MAOSU",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "MAOSU",
+                    "ratingReal": 9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "MAOSU",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "indoor-kei-nara-track-maker",
+            "title_localized": {
+                "default": "インドア系ならトラックメイカー",
+                "en": "Indoor Kei Nara Track Maker",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "インドア系ならトラックメイカー",
+                "ko": "en"
+            },
+            "artist": "Yunomi & nicamoq",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "きあと、Kiato",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "きあと、Kiato",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "きあと、Kiato",
+                    "ratingReal": 10.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "きあと、Kiato",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "invisible-frenzy",
+            "title_localized": {
+                "default": "Invisible Frenzy",
+                "en": "Invisible Frenzy",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Kobaryo",
+            "source_localized": {
+                "default": "WACCA",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Invisible AngrierB",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Invisible AngrierB",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 8.7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Invisible AngrierB",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 11
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Invisible AngrierB w/ AX in Frenzy",
+                    "jacketDesigner": "BerryVerrine",
+                    "ratingReal": 13.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "light-into-scheelite",
+            "title_localized": {
+                "default": "Light Into Scheelite",
+                "en": "Light Into Scheelite",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "MYUKKE.",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 9.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Axle",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "xinzang-bing",
+            "title_localized": {
+                "default": "심장병",
+                "en": "simjangbyeong",
+                "zh-Hans": "心脏病",
+                "zh-Hant": "心臟病",
+                "ja": "心臓病",
+                "ko": "심장병"
+            },
+            "artist": "HyuN feat. HUBOG",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 8.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 9.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "irony",
+            "title_localized": {
+                "default": "アイロニ",
+                "en": "Irony",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "アイロニ",
+                "ko": "en"
+            },
+            "artist": "すこっぷ",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "はるはる",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "はるはる",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "はるはる",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "はるはる",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "machine-gun",
+            "title_localized": {
+                "default": "Machine Gun",
+                "en": "Machine Gun",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "KIRA",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "大姨夫",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "大姨夫",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "大姨夫",
+                    "ratingReal": 8.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "大姨夫",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "a-clock",
+            "title_localized": {
+                "default": "A Clock",
+                "en": "A Clock",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "kurobe studio",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 10.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "spinel",
+            "title_localized": {
+                "default": "Spinel",
+                "en": "Spinel",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "ぺのれり(penoreri)",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "日光植物",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "日光植物",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "日光植物",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "日光植物",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "in-a-diabolic-manner",
+            "title_localized": {
+                "default": "In a Diabolic Manner",
+                "en": "In a Diabolic Manner",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nagiha",
+            "source_localized": {
+                "default": "Life is Kinetics",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 8.8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 11.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "infinity-heaven",
+            "title_localized": {
+                "default": "Infinity Heaven",
+                "en": "Infinity Heaven",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 8.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 11.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "rush-e",
+            "title_localized": {
+                "default": "Rush E",
+                "en": "Rush E",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Sheet Music Boss",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "Tsukimi Kaya",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "Tsukimi Kaya",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AngrierB vs j!ang",
+                    "jacketDesigner": "Tsukimi Kaya",
+                    "ratingReal": 8.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrierB",
+                    "jacketDesigner": "Tsukimi Kaya",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "chrysanthemum",
+            "title_localized": {
+                "default": "Chrysanthemum",
+                "en": "Chrysanthemum",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "7mai",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 10.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 11.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "dual-breaker-xx",
+            "title_localized": {
+                "default": "DUAL BREAKER XX",
+                "en": "DUAL BREAKER XX",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Srav3R vs Getty",
+            "source_localized": {
+                "default": "WACCA Lily R",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaShi",
+                    "jacketDesigner": "murAta Yuzi",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaShi",
+                    "jacketDesigner": "murAta Yuzi",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaShi",
+                    "jacketDesigner": "murAta Yuzi",
+                    "ratingReal": 11.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaShi",
+                    "jacketDesigner": "murAta Yuzi",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "blastrick",
+            "title_localized": {
+                "default": "Blastrick",
+                "en": "Blastrick",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "K4Y5",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 8.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "桌桌子",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "reverie",
+            "title_localized": {
+                "default": "Reverie",
+                "en": "Reverie",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Soba",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "あらた★",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "あらた★",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "あらた★",
+                    "ratingReal": 8.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "あらた★",
+                    "ratingReal": 11.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "snapdragon",
+            "title_localized": {
+                "default": "Snapdragon",
+                "en": "Snapdragon",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "NeLiME",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 8.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "炎獵",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "secret-illumination",
+            "title_localized": {
+                "default": "Secret Illumination",
+                "en": "Secret Illumination",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Yooh",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 10.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "aorist-hallucination",
+            "title_localized": {
+                "default": "Aorist Hallucination",
+                "en": "Aorist Hallucination",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "FallN Leav",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Chih Chi Chang",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "snow-magic",
+            "title_localized": {
+                "default": "Snow Magic",
+                "en": "Snow Magic",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nota",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "貓兒迷雅 NekoMia",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "貓兒迷雅 NekoMia",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "貓兒迷雅 NekoMia",
+                    "ratingReal": 8.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "貓兒迷雅 NekoMia",
+                    "ratingReal": 11
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "the-formula",
+            "title_localized": {
+                "default": "The Formula",
+                "en": "The Formula",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Junk",
+            "source_localized": {
+                "default": "BOF2013",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Pilot:Jakasy",
+                    "jacketDesigner": "鑓田",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Pilot:Jakasy",
+                    "jacketDesigner": "鑓田",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Pilot:Jakasy",
+                    "jacketDesigner": "鑓田",
+                    "ratingReal": 9.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Pilot:Jakasy",
+                    "jacketDesigner": "鑓田",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "junky-night-town-orchestra",
+            "title_localized": {
+                "default": "ジャンキーナイトタウンオーケストラ",
+                "en": "Junky Night Town Orchestra",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "ジャンキーナイトタウンオーケストラ",
+                "ko": "en"
+            },
+            "artist": "すりぃ",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "ねこぜもん",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "ねこぜもん",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "ねこぜもん",
+                    "ratingReal": 9.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "ねこぜもん",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "shinde-shimatta-kisetsu-no-kakera",
+            "title_localized": {
+                "default": "死んでしまった季節のかけら",
+                "en": "Shinde Shimatta Kisetsu no Kakera",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "死んでしまった季節のかけら",
+                "ko": "en"
+            },
+            "artist": "HyuN feat. トコノコα",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 8.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "rip",
+            "title_localized": {
+                "default": "R.I.P.",
+                "en": "R.I.P.",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "eicateve",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang x TangScend x DarkM",
+                    "jacketDesigner": "hrchem x TOHRU MiTSUHASHi",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang x TangScend x DarkM",
+                    "jacketDesigner": "hrchem x TOHRU MiTSUHASHi",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang x TangScend x DarkM",
+                    "jacketDesigner": "hrchem x TOHRU MiTSUHASHi",
+                    "ratingReal": 9.7
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang x TangScend x DarkM",
+                    "jacketDesigner": "hrchem x TOHRU MiTSUHASHi",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "ouverture",
+            "title_localized": {
+                "default": "Ouvertüre",
+                "en": "Ouvertüre",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "USAO & DJ Genki feat. ルーン(CV:河瀬茉希)",
+            "source_localized": {
+                "default": "WACCA Reverse",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈 & TangScend",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈 & TangScend",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈 & TangScend",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 11.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈 & TangScend",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 12.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "let-you-dive",
+            "title_localized": {
+                "default": "Let you DIVE!",
+                "en": "Let you DIVE!",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HARDCORE TANO*C & エリザベス（CV:大西沙織）",
+            "source_localized": {
+                "default": "WACCA",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 10.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "明日",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 11.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "9876734123",
+            "title_localized": {
+                "default": "9876734123",
+                "en": "9876734123",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Silentroom",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Silentroom",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Silentroom",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Silentroom",
+                    "ratingReal": 11.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Silentroom",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "anthem",
+            "title_localized": {
+                "default": "Anthem",
+                "en": "Anthem",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Silaver & SOTUI",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 10.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "文夏藤",
+                    "ratingReal": 11.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "the-promised-land",
+            "title_localized": {
+                "default": "The Promised Land",
+                "en": "The Promised Land",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Iris feat. LynH",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 9.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 11.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "cross-genocide",
+            "title_localized": {
+                "default": "Cross†Genocide",
+                "en": "Cross†Genocide",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "HyuN feat. 蔡花零",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "autumnal euinox",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "autumnal euinox",
+                    "ratingReal": 8
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "autumnal euinox",
+                    "ratingReal": 11
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "autumnal euinox",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "autumn-breeze",
+            "title_localized": {
+                "default": "Autumn Breeze",
+                "en": "Autumn Breeze",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "MYOYA",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "ENKKONG / OLiVIA",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "ENKKONG / OLiVIA",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "ENKKONG / OLiVIA",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "ENKKONG / OLiVIA",
+                    "ratingReal": 9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "with-u",
+            "title_localized": {
+                "default": "with U",
+                "en": "with U",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "t+pazolite & Massive New Krew feat. リリィ(CV:青木志貴)",
+            "source_localized": {
+                "default": "WACCA Lily",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "みかんのはる with TangScend",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 9.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "みかんのはる with j!ang",
+                    "jacketDesigner": "LAM",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "aurora",
+            "title_localized": {
+                "default": "Aurora",
+                "en": "Aurora",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Kirara Magic feat. Shion",
+            "source_localized": {
+                "default": "Magic Shop",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 8.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Vivid",
+                    "ratingReal": 11.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "alice-in-a-xxxxxxxx",
+            "title_localized": {
+                "default": "Alice in a xxxxxxxx",
+                "en": "Alice in a xxxxxxxx",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nagiha",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 8.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 10.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "quaoar",
+            "title_localized": {
+                "default": "Quaoar",
+                "en": "Quaoar",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "かめりあ(Camellia)",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AngrイerP",
+                    "jacketDesigner": "胡聖",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AngrイerP",
+                    "jacketDesigner": "胡聖",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AngrイerP",
+                    "jacketDesigner": "胡聖",
+                    "ratingReal": 11.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AngrイerP",
+                    "jacketDesigner": "胡聖",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "pure-white-tale-of-serissa",
+            "title_localized": {
+                "default": "Pure White: Tale of Serissa",
+                "en": "Pure White: Tale of Serissa",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Sosop",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 8.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Juice Black",
+                    "ratingReal": 10.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "awaking-beat",
+            "title_localized": {
+                "default": "Awaking Beat -From the next generation-",
+                "en": "Awaking Beat -From the next generation-",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "nmk feat.橘花音",
+            "source_localized": {
+                "default": "BOFXV19",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 10.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "三更",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "invader",
+            "title_localized": {
+                "default": "Invader",
+                "en": "Invader",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "SLT",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 9.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "pupa",
+            "title_localized": {
+                "default": "PUPA",
+                "en": "PUPA",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "モリモリあつし",
+            "source_localized": {
+                "default": "G2R2014",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "yoshimo",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "yoshimo",
+                    "ratingReal": 8.9
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "yoshimo",
+                    "ratingReal": 11.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "yoshimo",
+                    "ratingReal": 13.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "ef4123",
+            "title_localized": {
+                "default": "EF4123",
+                "en": "EF4123",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "RedMuffleR",
+            "source_localized": {
+                "default": "PANORAMA",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 10.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "陳巧依",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "wakare-no-jokyoku",
+            "title_localized": {
+                "default": "別れの序曲",
+                "en": "Wakare no Jokyoku",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "別れの序曲",
+                "ko": "en"
+            },
+            "artist": "HyuN feat. Sennzai",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "葡萄糖注射",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "葡萄糖注射",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "葡萄糖注射",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "葡萄糖注射",
+                    "ratingReal": 9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "journey-with-you",
+            "title_localized": {
+                "default": "Journey with You",
+                "en": "Journey with You",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Iris",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AXERA -All about YOU & ME-",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AXERA -All about YOU & ME-",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AXERA -All about YOU & ME-",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 8.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AXERA -All about YOU & ME-",
+                    "jacketDesigner": "BTKCyber",
+                    "ratingReal": 11.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "milk",
+            "title_localized": {
+                "default": "MilK",
+                "en": "MilK",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "モリモリあつし",
+            "source_localized": {
+                "default": "BOFU2015",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 9.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "出前",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "re-prosperitas",
+            "title_localized": {
+                "default": "Re:prosperitás",
+                "en": "Re:prosperitás",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Nagiha",
+            "source_localized": {
+                "default": "Re​:​prosperitás",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Diffuse",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Diffuse",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Diffuse",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Diffuse",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "sterelogue",
+            "title_localized": {
+                "default": "Sterelogue",
+                "en": "Sterelogue",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "VeetaCrush",
+            "source_localized": {
+                "default": "G2R2018",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 10
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "Mechari",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "grand-i-flora",
+            "title_localized": {
+                "default": "GRAND-i-FLORA",
+                "en": "GRAND-i-FLORA",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "DRIVE.",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "DRIVE.",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "DRIVE.",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "DRIVE.",
+                    "ratingReal": 10.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "AxEradaS",
+                    "jacketDesigner": "DRIVE.",
+                    "ratingReal": 11.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "lost-in-farside",
+            "title_localized": {
+                "default": "Lost In Farside",
+                "en": "Lost In Farside",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Sephid",
+            "source_localized": {
+                "default": "BOFXVI",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 10.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "fly-again",
+            "title_localized": {
+                "default": "Fly Again",
+                "en": "Fly Again",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Fujiyori",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "M Mubyn",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "M Mubyn",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "M Mubyn",
+                    "ratingReal": 9.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "M Mubyn",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "maholova",
+            "title_localized": {
+                "default": "Maholova",
+                "en": "Maholova",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "aran",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 8.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "our-message",
+            "title_localized": {
+                "default": "Our Message",
+                "en": "Our Message",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "What's Your Price",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Who's your charter",
+                    "jacketDesigner": "Lsu",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Who's your charter",
+                    "jacketDesigner": "Lsu",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "who's your charTer",
+                    "jacketDesigner": "Lsu",
+                    "ratingReal": 9.6
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Who's your charTer",
+                    "jacketDesigner": "Lsu",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "one-percent-love",
+            "title_localized": {
+                "default": "1/100 の アイ",
+                "en": "One Percent Love",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ja": "1/100 の アイ",
+                "ko": "en"
+            },
+            "artist": "すりぃ",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "まお",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "まお",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "まお",
+                    "ratingReal": 8.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "まお",
+                    "ratingReal": 11.6
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "recollection",
+            "title_localized": {
+                "default": "Recollection",
+                "en": "Recollection",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "artist": "Kobaryo",
+            "source_localized": {
+                "default": "MIXPEED ACTION",
+                "en": "",
+                "zh-Hans": "",
+                "zh-Hant": "",
+                "ja": "",
+                "ko": ""
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi not in Frenzy",
+                    "jacketDesigner": "あきま",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi not in Frenzy",
+                    "jacketDesigner": "あきま",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi not in Frenzy",
+                    "jacketDesigner": "あきま",
+                    "ratingReal": 11.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi not in Frenzy",
+                    "jacketDesigner": "あきま",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "revocate",
+            "title_localized": {
+                "default": "REVΘCATE"
+            },
+            "artist": "kuro",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "RHEZΘBAR",
+                    "jacketDesigner": "ZG, Hyeeun ",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "RHEZΘBAR",
+                    "jacketDesigner": "ZG, Hyeeun ",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "RHEZΘBAR",
+                    "jacketDesigner": "ZG, Hyeeun ",
+                    "ratingReal": 10.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "RHEZΘBAR",
+                    "jacketDesigner": "ZG, Hyeeun ",
+                    "ratingReal": 12.2
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "my-heaven-magical-mix",
+            "title_localized": {
+                "default": "My Heaven (Magical Mix) feat. kuripurin"
+            },
+            "artist": "Scarlette X Juggernaut.",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "闇靈[NORMAL]",
+                    "jacketDesigner": "ZG, LINUS",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "闇靈[HARD]",
+                    "jacketDesigner": "ZG, LINUS",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "闇靈[HARD+]",
+                    "jacketDesigner": "ZG, LINUS",
+                    "ratingReal": 9.2
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "闇靈[ABYSS]",
+                    "jacketDesigner": "ZG, LINUS",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "fallin-fallin",
+            "title_localized": {
+                "default": "fallin' fallin' (prod. INFX, Ella Jung, Limpid)"
+            },
+            "artist": "kradness",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "↓AXERA↓",
+                    "jacketDesigner": "tahseul",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "↓AXERA↓",
+                    "jacketDesigner": "tahseul",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "↓AXERA↓",
+                    "jacketDesigner": "tahseul",
+                    "ratingReal": 9.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "↓AXERA↓",
+                    "jacketDesigner": "tahseul",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "evocator",
+            "title_localized": {
+                "default": "Ēvocator"
+            },
+            "artist": "Evin a'k",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "Evin a'k",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "Evin a'k",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "Evin a'k",
+                    "ratingReal": 8.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "Evin a'k",
+                    "ratingReal": 12.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "eschatology",
+            "title_localized": {
+                "default": "Eschatology"
+            },
+            "artist": "Tatsh & Scarlette",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Toya Fujimura",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Toya Fujimura",
+                    "ratingReal": 6
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Toya Fujimura",
+                    "ratingReal": 11.3
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Toya Fujimura",
+                    "ratingReal": 12.9
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "dont-never-around",
+            "title_localized": {
+                "default": "Don't Never Around"
+            },
+            "artist": "HAMA",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Arahosi",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Arahosi",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Arahosi",
+                    "ratingReal": 9.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Arahosi",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "avataar",
+            "title_localized": {
+                "default": "Avataar ~Reincarnation of Kalpa~"
+            },
+            "artist": "Scarlette a.k.a. CrYmson",
+            "source_localized": {
+                "default": "KALPA"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "ZG",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "ZG",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "みかんのはる",
+                    "jacketDesigner": "ZG",
+                    "ratingReal": 9.9
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "ZG",
+                    "ratingReal": 12.8
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "sense",
+            "title_localized": {
+                "default": "Sense"
+            },
+            "artist": "BilliumMoto × Silentroom",
+            "source_localized": {
+                "default": "BOFXVII"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "ScendRez",
+                    "jacketDesigner": "mahinii | Charactor Visual Design 蟹江",
+                    "ratingReal": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "ScendRez",
+                    "jacketDesigner": "mahinii | Charactor Visual Design 蟹江",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "ScendRez",
+                    "jacketDesigner": "mahinii | Charactor Visual Design 蟹江",
+                    "ratingReal": 8.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "ScendRez",
+                    "jacketDesigner": "mahinii | Charactor Visual Design 蟹江",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "magenta-potion",
+            "title_localized": {
+                "default": "MAGENTA POTION"
+            },
+            "artist": "EmoCosine",
+            "source_localized": {
+                "default": "BOFXV19"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "NO|SER",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "NO|SER",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "NO|SER",
+                    "ratingReal": 9.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "NO|SER",
+                    "ratingReal": 12.5
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "looking-for-stella",
+            "title_localized": {
+                "default": "Looking for Stella"
+            },
+            "artist": "Junk",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 8.4
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12.3
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "hoshifuruyoru-to-ichirin-no-hana",
+            "title_localized": {
+                "default": "星降る夜と一輪の花",
+                "en": "Hoshifuruyoru To Ichirin No Hana",
+                "zh-Hans": "en",
+                "zh-Hant": "en",
+                "ko": "en"
+            },
+            "artist": "seatrus",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "48OKU",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "48OKU",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "48OKU",
+                    "ratingReal": 9.1
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "48OKU",
+                    "ratingReal": 12.1
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "fate-of-aria",
+            "title_localized": {
+                "default": "Fate of Aria"
+            },
+            "artist": "HyuN feat.花たん",
+            "source_localized": {
+                "default": "Rotaeno Sound Collection"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 3
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 7
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 9.8
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "LINUS",
+                    "ratingReal": 12.7
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "eternal-calm",
+            "title_localized": {
+                "default": "Eternal calm"
+            },
+            "artist": "長沼浩太(パパ頑張りました)",
+            "source_localized": {
+                "default": "BOF:ET"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 1
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 5
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "Nich",
+                    "ratingReal": 11.4
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "azure-sky",
+            "title_localized": {
+                "default": "Azure Sky"
+            },
+            "artist": "NeLiME",
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 2
+                },
+                {
+                    "ratingClass": 1,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 4
+                },
+                {
+                    "ratingClass": 2,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 7.5
+                },
+                {
+                    "ratingClass": 3,
+                    "chartDesigner": "j!ang",
+                    "jacketDesigner": "伊恩",
+                    "ratingReal": 12
+                }
+            ],
+            "alias": []
+        },
+        {
+            "id": "nyarlathoteps-dreamland",
+            "artist": "Raimukun",
+            "title_localized": {
+                "default": "Nyarlathotep's Dreamland"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "Adashi as 12+(?)",
+                    "jacketDesigner": "冰果"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 7,
+                    "chartDesigner": "Adashi as 12+(?)",
+                    "jacketDesigner": "冰果"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 10.9,
+                    "chartDesigner": "Adashi as 12+(?)",
+                    "jacketDesigner": "冰果"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.9,
+                    "chartDesigner": "Adashi as 12+(?)",
+                    "jacketDesigner": "冰果"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "nighttheater",
+            "artist": "わかどり",
+            "title_localized": {
+                "default": "NightTheater"
+            },
+            "source_localized": {
+                "default": "BOFXVI"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "もがみ"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "もがみ"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 7.5,
+                    "chartDesigner": "MF-",
+                    "jacketDesigner": "もがみ"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "もがみ"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "giselle",
+            "artist": "Sobrem a.k.a. Widowmaker ",
+            "title_localized": {
+                "default": "Giselle"
+            },
+            "source_localized": {
+                "default": "G2R2018"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "闇靈&イ号P",
+                    "jacketDesigner": "Sobrem"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "闇靈&イ号P",
+                    "jacketDesigner": "Sobrem"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 10.7,
+                    "chartDesigner": "闇靈&イ号P",
+                    "jacketDesigner": "Sobrem"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.4,
+                    "chartDesigner": "闇靈&イ号P",
+                    "jacketDesigner": "Sobrem"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "wakatterukedo",
+            "artist": "HyuN feat. LyuU",
+            "title_localized": {
+                "default": "分かってるけど",
+                "en": "Wakatterukedo"
+            },
+            "source_localized": {
+                "default": "Rotaeno Sound Collection"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 2,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Nabom"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Nabom"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 7,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Nabom"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "Nabom"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "spooky-dance-party",
+            "artist": "seatrus",
+            "title_localized": {
+                "default": "スプーキィダンスパーティ",
+                "en": "Spooky Dance Party",
+                "ja": "スプーキィダンスパーティ"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "るれぷ"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 6,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "るれぷ"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "るれぷ"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.9,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "るれぷ"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "marble-joker",
+            "artist": "pan",
+            "title_localized": {
+                "default": "Marble Joker"
+            },
+            "source_localized": {
+                "default": "Rotaeno Sound Collection"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 4,
+                    "chartDesigner": "Gambling Master = SAISHUN",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 7.5,
+                    "chartDesigner": "Gambling Master = SAISHUN",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11.3,
+                    "chartDesigner": "Gambling Master = SAISHUN",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.8,
+                    "chartDesigner": "Gambling Master = SAISHUN",
+                    "jacketDesigner": "炎獵"
+                }
+            ],
+            "has_challenge_badge": true,
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "phantago",
+            "artist": "Nagiha",
+            "title_localized": {
+                "default": "Phantago"
+            },
+            "source_localized": {
+                "default": "The Dueliot"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "織日ちひろ"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 7.5,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "織日ちひろ"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11.3,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "織日ちひろ"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 13.2,
+                    "chartDesigner": "Joker vs AxEradaShi",
+                    "jacketDesigner": "織日ちひろ"
+                }
+            ],
+            "release_version": "1.12.0",
+            "alias": []
+        },
+        {
+            "id": "no-one-yes-man",
+            "artist": "MYUKKE.",
+            "title_localized": {
+                "default": "NO ONE YES MAN"
+            },
+            "source_localized": {
+                "default": "Phigros"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 2,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "青鸟"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "青鸟"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 9.8,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "青鸟"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "青鸟"
+                }
+            ],
+            "release_version": "1.13.0",
+            "alias": []
+        },
+        {
+            "id": "break-over",
+            "artist": "K-forest",
+            "title_localized": {
+                "default": "Break Over"
+            },
+            "source_localized": {
+                "default": "Phigros/©Oshiribeat"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "圆规Compass"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "圆规Compass"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 9.8,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "圆规Compass"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 11.9,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "圆规Compass"
+                }
+            ],
+            "release_version": "1.13.0",
+            "alias": []
+        },
+        {
+            "id": "feast-from-the-east",
+            "artist": "茶鸣拾贰律",
+            "title_localized": {
+                "default": "Feast远东之宴",
+                "en": "Feast From the East",
+                "zh-Hant": "Feast遠東之宴"
+            },
+            "source_localized": {
+                "default": "Phigros/©茶鸣拾贰律"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "AngrierB From the East",
+                    "jacketDesigner": "茶鸣拾贰律"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "AngrierB From the East",
+                    "jacketDesigner": "茶鸣拾贰律"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 8.5,
+                    "chartDesigner": "AngrierB From the East",
+                    "jacketDesigner": "茶鸣拾贰律"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.4,
+                    "chartDesigner": "AngrierB From the East",
+                    "jacketDesigner": "茶鸣拾贰律"
+                }
+            ],
+            "release_version": "1.13.0",
+            "alias": []
+        },
+        {
+            "id": "distorted-fate",
+            "artist": "Sakuzyo",
+            "title_localized": {
+                "default": "Distorted Fate"
+            },
+            "source_localized": {
+                "default": "Phigros"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 2,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "knife美工刀"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 6,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "knife美工刀"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11.2,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "knife美工刀"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.8,
+                    "chartDesigner": "植物",
+                    "jacketDesigner": "knife美工刀"
+                }
+            ],
+            "has_challenge_badge": true,
+            "release_version": "1.13.0",
+            "alias": [
+                "df"
+            ]
+        },
+        {
+            "id": "rrharil",
+            "artist": "Team Grimoire",
+            "title_localized": {
+                "default": "Rrhar'il"
+            },
+            "source_localized": {
+                "default": "Phigros"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 4,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "犀牛坨动画工坊"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 6,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "犀牛坨动画工坊"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11.5,
+                    "chartDesigner": "Adashi",
+                    "jacketDesigner": "犀牛坨动画工坊"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.9,
+                    "chartDesigner": "Adashi apply \"The Limiter\"",
+                    "jacketDesigner": "犀牛坨动画工坊"
+                }
+            ],
+            "has_challenge_badge": true,
+            "release_version": "1.13.0",
+            "alias": []
+        },
+        {
+            "id": "igallta",
+            "artist": "Se-U-Ra",
+            "title_localized": {
+                "default": "Igallta"
+            },
+            "source_localized": {
+                "default": "Phigros"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Se-U-Ra"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 6,
+                    "chartDesigner": "TangScend",
+                    "jacketDesigner": "Se-U-Ra"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 11.4,
+                    "chartDesigner": "イ号P",
+                    "jacketDesigner": "Se-U-Ra"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 13.2,
+                    "chartDesigner": "IgouTang",
+                    "jacketDesigner": "Se-U-Ra"
+                }
+            ],
+            "has_challenge_badge": true,
+            "release_version": "1.13.0",
+            "alias": []
+        },
+        {
+            "id": "mistilteinn",
+            "artist": "iTIC",
+            "title_localized": {
+                "default": "Mistilteinn"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 3,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 5,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 9.9,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "炎獵"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.5,
+                    "chartDesigner": "TPRT Wen",
+                    "jacketDesigner": "炎獵"
+                }
+            ],
+            "release_version": "1.13.2",
+            "alias": []
+        },
+        {
+            "id": "swirling-blue",
+            "artist": "Nagiha",
+            "title_localized": {
+                "default": "Swirling Blue"
+            },
+            "source_localized": {
+                "default": "Rotaeno Sound Collection"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 2,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "矢嶋こずみ"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 4,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "矢嶋こずみ"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 8.2,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "矢嶋こずみ"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 11.8,
+                    "chartDesigner": "Jakasy",
+                    "jacketDesigner": "矢嶋こずみ"
+                }
+            ],
+            "release_version": "1.13.2",
+            "alias": []
+        },
+        {
+            "id": "internet-overdose",
+            "artist": "Aiobahn feat. KOTOKO",
+            "title_localized": {
+                "default": "INTERNET OVERDOSE"
+            },
+            "difficulties": [
+                {
+                    "ratingClass": 0,
+                    "ratingReal": 2,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "こかむも"
+                },
+                {
+                    "ratingClass": 1,
+                    "ratingReal": 4,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "こかむも"
+                },
+                {
+                    "ratingClass": 2,
+                    "ratingReal": 8.9,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "こかむも"
+                },
+                {
+                    "ratingClass": 3,
+                    "ratingReal": 12.1,
+                    "chartDesigner": "闇靈DarkM",
+                    "jacketDesigner": "こかむも"
+                }
+            ],
+            "release_version": "1.13.3",
+            "alias": []
+        }
+    ]
+}
